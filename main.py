@@ -205,4 +205,5 @@ def update_expense_table(Type: str):
 
 
 if __name__ == '__main__':
-    app.run_server()
+    # 0.0.0.0 means eveery one can connect
+    app.run_server(host='0.0.0.0', port=8080)
