@@ -19,11 +19,9 @@ Drop your csv file containing transaction, then you can see the results.
 ---
 
 ## For developer
-Create a new virtual environment, then install the requirements
+Create a new virtual environment, install the requirements, then run the app.
 
 `pip install -r requirements.txt`
-
-cd to the `/income_expense_tracker` folder then run the app
 
 `cd income_expense_tracker`
 
