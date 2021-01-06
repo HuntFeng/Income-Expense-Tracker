@@ -28,3 +28,9 @@ cd to the `/income_expense_tracker` folder then run the app
 `cd income_expense_tracker`
 
 `python app.py`
+
+
+## File structure
+- `main.py`: The main program.
+- `dataframe_preprocess.py`: Preprocess the dataframe when csv is read. 
+- `app.yaml`: For deployment on google cloud platform.
