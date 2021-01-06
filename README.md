@@ -14,6 +14,7 @@ Drop your csv file containing transaction, then you can see the results.
 |12/30/2020 | transaction description | 10 | 0 |
 |12/30/2020 | transaction description | 0 | 10 |
 
+- Header is not necessary
 
 ---
 
