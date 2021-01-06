@@ -205,4 +205,4 @@ def update_expense_table(Type: str):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server()
