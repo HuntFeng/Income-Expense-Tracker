@@ -1,0 +1,6 @@
+chequing.csv
+analysis.ipynb
+/.vscode
+/__pycache__
+/env
+income_expense_tracker/__pycache__
