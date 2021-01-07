@@ -4,7 +4,7 @@ A free (at least for now) dash-based webapp deployed on Google Cloud Platform.
 ## For normal users
 Click into this link
 
-
+https://calm-seeker-300920.wl.r.appspot.com
 
 Drop your csv file containing transaction, then you can see the results.
 
