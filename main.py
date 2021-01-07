@@ -21,6 +21,8 @@ app = dash.Dash(
     suppress_callback_exceptions=True # the data table depends on the layout which is dynamically generated, so suppress this
 ) 
 
+server = app.server # you must have this in order to properly use gunicorn
+
 app.layout = html.Div([
     html.Center(html.H1("Visualization of Incomes and Expenses")),
     dcc.Upload(
